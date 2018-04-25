@@ -3,11 +3,11 @@ This week the group has continued to meet through signal and in person as the de
 I worked to get an iso of Windows 7 off of a virtual machine at the school because in the virtual machine there were no admin restrictions to do so.
 This can go onto our server if a better suited iso cannot be found in time.
 
-![Step one](https://github.com/bigmantate/images/Capture4.PNG)
+![Step one](https://octodex.github.com/bigmantate/images/Capture4.PNG)
 
-![Step two](https://github.com/bigmantate/images/Capture3.PNG)
+![Step two](https://octodex.github.com/bigmantate/images/Capture3.PNG)
 
-![Step three](https://github.com/bigmantate/images/Capture1.PNG)
+![Step three](https://octodex.github.com/bigmantate/images/Capture1.PNG)
 
 ### Backup Plan
 I also have begun and should finish by this upcoming class a Ubuntu server through my Raspberry Pi. 
